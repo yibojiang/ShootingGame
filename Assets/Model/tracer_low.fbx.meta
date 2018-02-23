@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: ee2c9c334dce24111aba79720b8ce8e3
+timeCreated: 1519358860
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: aimsights_back_low
+    100002: aimsights_low
+    100004: barrel_back_low
+    100006: barrel_top_low
+    100008: basehousing_low
+    100010: bolts_low
+    100012: connector_bolt_low
+    100014: grip_low
+    100016: hammer_clip_low
+    100018: hammer_cover_low
+    100020: hammer_low
+    100022: hammer_part_low
+    100024: handle_base_cover_low
+    100026: handle_base_low
+    100028: handle_bottom_low
+    100030: handle_grip_inner_low
+    100032: handle_grip_low
+    100034: handle_low
+    100036: handle_top_low
+    100038: innerCore_low
+    100040: muzzle_base_low
+    100042: muzzle_bottom_low
+    100044: muzzle_clip_low
+    100046: muzzle_low
+    100048: muzzle_ring_low
+    100050: outterCore_low
+    100052: //RootNode
+    100054: trigger_low
+    400000: aimsights_back_low
+    400002: aimsights_low
+    400004: barrel_back_low
+    400006: barrel_top_low
+    400008: basehousing_low
+    400010: bolts_low
+    400012: connector_bolt_low
+    400014: grip_low
+    400016: hammer_clip_low
+    400018: hammer_cover_low
+    400020: hammer_low
+    400022: hammer_part_low
+    400024: handle_base_cover_low
+    400026: handle_base_low
+    400028: handle_bottom_low
+    400030: handle_grip_inner_low
+    400032: handle_grip_low
+    400034: handle_low
+    400036: handle_top_low
+    400038: innerCore_low
+    400040: muzzle_base_low
+    400042: muzzle_bottom_low
+    400044: muzzle_clip_low
+    400046: muzzle_low
+    400048: muzzle_ring_low
+    400050: outterCore_low
+    400052: //RootNode
+    400054: trigger_low
+    2300000: aimsights_back_low
+    2300002: aimsights_low
+    2300004: barrel_back_low
+    2300006: barrel_top_low
+    2300008: basehousing_low
+    2300010: bolts_low
+    2300012: connector_bolt_low
+    2300014: grip_low
+    2300016: hammer_clip_low
+    2300018: hammer_cover_low
+    2300020: hammer_low
+    2300022: hammer_part_low
+    2300024: handle_base_cover_low
+    2300026: handle_base_low
+    2300028: handle_bottom_low
+    2300030: handle_grip_inner_low
+    2300032: handle_grip_low
+    2300034: handle_low
+    2300036: handle_top_low
+    2300038: innerCore_low
+    2300040: muzzle_base_low
+    2300042: muzzle_bottom_low
+    2300044: muzzle_clip_low
+    2300046: muzzle_low
+    2300048: muzzle_ring_low
+    2300050: outterCore_low
+    2300052: trigger_low
+    3300000: aimsights_back_low
+    3300002: aimsights_low
+    3300004: barrel_back_low
+    3300006: barrel_top_low
+    3300008: basehousing_low
+    3300010: bolts_low
+    3300012: connector_bolt_low
+    3300014: grip_low
+    3300016: hammer_clip_low
+    3300018: hammer_cover_low
+    3300020: hammer_low
+    3300022: hammer_part_low
+    3300024: handle_base_cover_low
+    3300026: handle_base_low
+    3300028: handle_bottom_low
+    3300030: handle_grip_inner_low
+    3300032: handle_grip_low
+    3300034: handle_low
+    3300036: handle_top_low
+    3300038: innerCore_low
+    3300040: muzzle_base_low
+    3300042: muzzle_bottom_low
+    3300044: muzzle_clip_low
+    3300046: muzzle_low
+    3300048: muzzle_ring_low
+    3300050: outterCore_low
+    3300052: trigger_low
+    4300000: outterCore_low
+    4300002: innerCore_low
+    4300004: muzzle_base_low
+    4300006: barrel_top_low
+    4300008: grip_low
+    4300010: handle_base_cover_low
+    4300012: handle_base_low
+    4300014: handle_grip_inner_low
+    4300016: trigger_low
+    4300018: aimsights_low
+    4300020: aimsights_back_low
+    4300022: bolts_low
+    4300024: hammer_part_low
+    4300026: handle_top_low
+    4300028: hammer_cover_low
+    4300030: basehousing_low
+    4300032: muzzle_ring_low
+    4300034: muzzle_clip_low
+    4300036: muzzle_low
+    4300038: muzzle_bottom_low
+    4300040: handle_bottom_low
+    4300042: handle_grip_low
+    4300044: connector_bolt_low
+    4300046: hammer_clip_low
+    4300048: hammer_low
+    4300050: handle_low
+    4300052: barrel_back_low
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

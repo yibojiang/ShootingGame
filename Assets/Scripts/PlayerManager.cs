@@ -12,6 +12,7 @@ public class PlayerManager : MonoBehaviour {
 	public float spawnInterval;
 	private float spawnElaseped;
 	public GameObject gameOverPanel;
+	public bool gameOver = false;
 	// Use this for initialization
 	void Start () {
 		
@@ -22,6 +23,11 @@ public class PlayerManager : MonoBehaviour {
 		// Debug.Log(player.transform.position);
 		// Debug.Log(player.transform.TransformDirection(Vector3.forward));
 		Vector3 force = player.transform.TransformDirection(Vector3.forward);
+		if (gameOver) {
+			if (Input.GetMouseButtonDown(0) ) {
+				Application.LoadLevel("Game");	
+			}
+		}
 
 		if (Input.GetKeyDown(KeyCode.F) || Input.GetMouseButtonDown(0)){
 			GameObject bulleetObj =  GameObject.Instantiate(bulletPrefab, gunObj.transform.position, gunObj.transform.rotation);
@@ -48,5 +54,6 @@ public class PlayerManager : MonoBehaviour {
 	public void Die() {
 		gameOverPanel.SetActive(true);
 		Debug.Log("die");
+		gameOver = true;
 	}
 }
